@@ -9,7 +9,14 @@
   "devDependencies": {
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^7.0.0",
+    "file-system": "^2.2.2",
     "jscodeshift": "^0.11.0",
     "prettier": "^2.2.1"
+  },
+  "peerDependencies": {
+    "@babel/preset-env": "*"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
   }
 }
