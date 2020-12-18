@@ -1,0 +1,15 @@
+{
+  "name": "ast-add-deprecate-comment-to-svgr-dashboard",
+  "version": "1.0.0",
+  "description": "Adds a deprecation comment to our old SVGR icon components.",
+  "main": "index.js",
+  "author": "Kai Yao <kai@tockhq.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "jscodeshift": "^0.11.0",
+    "prettier": "^2.2.1"
+  }
+}
